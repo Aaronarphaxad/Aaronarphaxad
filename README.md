@@ -11,7 +11,7 @@
 </a>
 
 <br />
-<img align="right" alt="GIF" src="https://https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
 
 ### I am Aaron Omale
 - A web developer from Nigeria.
@@ -22,4 +22,7 @@
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 
-⭐️ From [AjayKhalsa](https://github.com/AjayKhalsa)
+![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=Aaronarphaxad&show_icons=true&theme=dark)
+
+
+
