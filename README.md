@@ -15,10 +15,11 @@
 
 ### I am Aaron Omale
 - A web developer from Nigeria.
-- Good at Django/Flask, javascript, React
+- Work with React, Django/Flask, javascript
+- I cook up UIs with high accuracy 🙂
 - Work as a front end developer
 - A small business owner who started learning tech to build software for his business. 
-- Currently working on some of my cool side projects based on Web Development.
+- Currently working on some of my cool projects based on Web Development.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 
