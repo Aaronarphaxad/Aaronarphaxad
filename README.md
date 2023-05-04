@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-- 🔭 I’m currently working on [Giftspaddy](https://giftspaddy.com)
+- 🔭 I’m currently learning C#/.NET.
 
 - 👨‍💻 All of my projects are available at [https://arphaxad.dev](https://arphaxad.dev)
 
