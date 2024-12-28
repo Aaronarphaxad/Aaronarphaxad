@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently learning C#/.NET.
+- 🔭 I’m currently interested in the cloud and DevOps.
 
 - 👨‍💻 All of my projects are available at [https://arphaxad.dev](https://arphaxad.dev)
 
